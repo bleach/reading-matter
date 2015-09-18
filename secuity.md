@@ -30,7 +30,11 @@ but his general security writing is a vbetter way to get started.
 [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) is a good
 reference book for those building systems that are likely to be attacked.
 
-It may seem quite long, but it is definitely worth it.
+It may seem quite long, but it is definitely worth it. It is the most thorough
+overview that currently exists and will fill in the gaps in your knowledge that
+you might still have after reading more detailed texts on specialist areas. If
+you don't have the specialist knowledge yet, it's a great (although demanding)
+use of your time.
 
 [Thinking in Systems, A
 Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Meadows-Donella-ebook/dp/B005VSRFEA), Donella Meadows, ISBN: 978-1603580557
