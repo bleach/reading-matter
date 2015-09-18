@@ -42,3 +42,29 @@ Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Meadows-Donella-ebook/dp
 This is not specifically about security, but gives you some of the insight into
 how to think about systems in a way that will help you understand their
 security. 
+
+[Cyber War: The Next Threat to National Security and What to Do About It](http://www.amazon.co.uk/Cyber-War-Threat-National-Security-ebook/dp/B003F1WMAM/)
+
+Focused on policy and various other Government responses. Lots of
+examples of attacks and details about the blurring between criminals
+and states.
+
+[Cyber War Will Not Take Place](http://www.amazon.co.uk/gp/product/B00ET38G9G/)
+
+Very policy focused, basically claiming that it's not really war.
+Again lots of legal details but also interesting examples and
+arguments.
+
+[Inside Cyber Warfare: Mapping the Cyber Underworld](http://www.amazon.co.uk/gp/product/B006LM62W6/)
+
+A book basically about the makeup and structure of Russian criminal
+organisations and what nefarious online crime they get up to. Lots of
+public details of the type our colleagues won't tell you :)
+
+[Threat Modeling: Designing for Security](http://www.amazon.co.uk/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)
+
+Useful in the context of thinking about what we're protecting, and having an attacker's mindset.
+
+[The Tangled Web: A Guide to Securing Modern Web Applications](http://www.amazon.co.uk/The-Tangled-Web-Securing-Applications/dp/1593273886)
+
+Brilliant book on attacking web apps.
