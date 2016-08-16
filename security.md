@@ -68,3 +68,5 @@ Useful in the context of thinking about what we're protecting, and having an att
 [The Tangled Web: A Guide to Securing Modern Web Applications](http://www.amazon.co.uk/The-Tangled-Web-Securing-Applications/dp/1593273886)
 
 Brilliant book on attacking web apps.
+
+[A fictitious book I just made up](http://www.example.com)
